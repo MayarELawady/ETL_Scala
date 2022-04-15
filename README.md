@@ -1,6 +1,6 @@
 # ETL - Scala   <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="React" alt="Scala" width="30" height="30"/>&nbsp;
 
-Used Scala Functional Programing to make a transformation on a dataset of customers, then loading  them into oracle database.
+A Proram using Scala Functional Programing to make a transformation on a dataset of customers, then loading  them into oracle database.
 The Program should do the following:
 - Extract data from csv files in a specific directory. 
 - Read the Contect of each file. 
